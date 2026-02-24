@@ -1,0 +1,12 @@
+fatecapps>totemaluno
+
+rodar o projeto
+menu do termina>command prompt
+npx expo start
+
+vai gerar um qrcode
+ler o qrcode no celular
+
+vai abrir o projeto
+
+

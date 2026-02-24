@@ -1,0 +1,28 @@
+ultima versão do expo para ser a base do app
+npx create-expo-app@latest greenrise --template
+y
+Navigation (Typescript)
+
+
+NO CELULAR:
+expo.dev/go
+android emulator
+
+volta no CMD:
+cd greenrise
+code .
+
+Vai abrir o VSCode
+
+npm run web
+
+
+**Gerenciador de dependência
+gerencia as bibliotecas dentro do projeto. Neste caso é o package.json
+
+Colors: define a tematização do projeto (estilização dos componentes como caixa de texto, botões etc
+
+assets: componentes visuais ou textuais carregados no projeto
+
+app: é onde programamos de fato. Tabs são as divisões da nossa navegação. 
+
