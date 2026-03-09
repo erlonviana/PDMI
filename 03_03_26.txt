@@ -1,0 +1,22 @@
+npx expo start (rodar projeto)
+
+projeto merge-skills-react
+
+index.tsx é sempre a porta de entrada para a web
+
+gerenciamento de estado:
+const nome: string = "Yuri"
+
+Quando essa variável é renderizada pela primeira vez o estado dela inicial é "Yuri"
+
+Para replicar este efeito podemos usar o useState
+Ou o useEffect quando quero algo mais robusto
+
+
+
+let const nome: string = "Yuri"
+
+Com o Let ela pode ter outros nomes como "Pedro, Ana, Clara etc"
+Isso pode recriar o componente alternando os nomes dentro de cada tela que ele for chamado (o componente vai sendo recriado e apagado com gerenciamentos de estados diferentes: estado 1, estado 2, estado 3 e estado 4).
+
+

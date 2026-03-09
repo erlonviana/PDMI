@@ -1,4 +1,4 @@
-ultima versão do expo para ser a base do app
+multima versão do expo para ser a base do app
 npx create-expo-app@latest greenrise --template
 y
 Navigation (Typescript)
